@@ -2,7 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>VybeScript</title>
-    <description>Update feed for VybeScript.</description>
-    <!-- Release <item> entries are added by Release/release.sh -->
+    <item>
+      <title>Version 0.1.1</title>
+      <sparkle:releaseNotesLink>https://github.com/Alfredoalv13/vybescript-updates/releases/tag/v0.1.1</sparkle:releaseNotesLink>
+      <pubDate>Wed, 01 Jul 2026 18:37:03 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Alfredoalv13/vybescript-updates/releases/download/v0.1.1/VybeScript-0.1.1.zip" sparkle:version="2" sparkle:shortVersionString="0.1.1" sparkle:edSignature="mOEqHlzRTPvOGAx3f9xVz0enoaEGAd+iAc1cXZvaljL7krmS8FGri8pjDHKFaIPhjqEDiPuDT4mXI9FWma7QDQ==" length="223713820" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
