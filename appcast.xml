@@ -3,16 +3,16 @@
   <channel>
     <title>VybeScript</title>
     <item>
-      <title>Version 0.3.4</title>
-      <sparkle:releaseNotesLink>https://github.com/Alfredoalv13/vybescript-updates/releases/tag/v0.3.4</sparkle:releaseNotesLink>
-      <pubDate>Fri, 02 Oct 2026 17:03:43 +0000</pubDate>
+      <title>Version 0.3.5</title>
+      <sparkle:releaseNotesLink>https://github.com/Alfredoalv13/vybescript-updates/releases/tag/v0.3.5</sparkle:releaseNotesLink>
+      <pubDate>Fri, 02 Oct 2026 22:27:55 +0000</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Alfredoalv13/vybescript-updates/releases/download/v0.3.4/VybeScript-0.3.4.zip"
-        sparkle:version="16"
-        sparkle:shortVersionString="0.3.4"
-        sparkle:edSignature="u/FirUCnBVNcu+noJ1tU0DHRGiC5uMzhvIkkR3LYpXBJW24tac8aZwHMc/JkXTLmjjP1B7BxppD4FnBh+2HGAA=="
-        length="479661078"
+        url="https://github.com/Alfredoalv13/vybescript-updates/releases/download/v0.3.5/VybeScript-0.3.5.zip"
+        sparkle:version="17"
+        sparkle:shortVersionString="0.3.5"
+        sparkle:edSignature="1b4AAWNe2OYAw+DhoaT+E7m99Y6lTBbLUfPRGU+99NSWP7CpjkZEm8mY9lsRD2Hc90h+r0M61gqRXC8v5v2gAQ=="
+        length="479714025"
         type="application/octet-stream" />
     </item>
   </channel>
